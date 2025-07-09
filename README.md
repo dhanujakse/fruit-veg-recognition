@@ -24,8 +24,11 @@ Once an item is recognized, the app looks up a list of predefined dishes related
 All of this happens inside an easy-to-use Streamlit web app, so you can see live video, predictions, and suggested dishes directly in your browser.
 
 • Example scenario
+
 You show a mango to your webcam.
+
 The AI recognizes it as "mango."
+
 The app suggests: Mango Lassi, Mango Ice Cream, Mango Salsa.
 
 • Key Features
