@@ -1,12 +1,12 @@
 # fruit-veg-recognition
-1.Why this specific model despite all existing ones?
+• Why this specific model despite all existing ones?
 This is an AI-based real-time fruit and vegetable recognition system with dish recommendations, built using Streamlit.
 It uses your webcam to continuously detect which fruit or vegetable is in front of it, and then suggests dishes you can prepare using that item.
 
-1.1.Why did i build this project?
+• Why did i build this project?
 Many people find it difficult to decide what to cook when they have fruits or vegetables at home. This project makes cooking more fun and creative by using AI to suggest ideas instantly.
 
-1.2.How does it work?
+• How does it work?
 1️.Webcam Capture
 The app uses your webcam to capture live video frames.
 
@@ -20,18 +20,18 @@ Once an item is recognized, the app looks up a list of predefined dishes related
 4️.Streamlit Interface
 All of this happens inside an easy-to-use Streamlit web app, so you can see live video, predictions, and suggested dishes directly in your browser.
 
-1.3.Example scenario
+• Example scenario
 You show a mango to your webcam.
 The AI recognizes it as "mango."
 The app suggests: Mango Lassi, Mango Ice Cream, Mango Salsa.
 
-1.4.Key Features
+• Key Features
 Real-time detection using your laptop or PC webcam
 Automatic dish recommendations
 Simple and interactive UI
 Uses deep learning without requiring high-end resources
 
-1.5.Who can use it?
+• Who can use it?
 Home cooks and food enthusiasts who want quick dish ideas
 Students learning about AI applications
 Anyone who loves experimenting in the kitchen!
